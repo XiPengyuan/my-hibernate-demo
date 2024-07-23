@@ -18,12 +18,13 @@
 
     <modules>
         <module>hibernate-hbm-demo</module>
+        <module>hibernate-annotation-demo</module>
         <module>spring-hibernate-demo</module>
     </modules>
 
     <dependencyManagement>
         <dependencies>
-            <!-- Spring Framework -->
+            <!-- Spring Framework 5 -->
             <dependency>
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-context</artifactId>
