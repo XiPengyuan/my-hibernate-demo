@@ -1,6 +1,6 @@
-package com.xipengyuan.demo.hibernate;
+package com.xipengyuan.demo.hibernate.hbm;
 
-import com.xipengyuan.demo.hibernate.entity.Event;
+import com.xipengyuan.demo.hibernate.hbm.entity.Event;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;

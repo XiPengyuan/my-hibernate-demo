@@ -19,6 +19,6 @@
 
         <property name="hbm2ddl.auto">validate</property>
 
-        <mapping resource="com/xipengyuan/demo/hibernate/entity/Event.hbm.xml"/>
+        <mapping resource="com/xipengyuan/demo/hibernate/hbm/entity/Event.hbm.xml"/>
     </session-factory>
 </hibernate-configuration>

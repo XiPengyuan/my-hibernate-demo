@@ -1,4 +1,4 @@
-package com.xipengyuan.demo.hibernate.entity;
+package com.xipengyuan.demo.hibernate.hbm.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
