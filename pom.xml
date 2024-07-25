@@ -19,6 +19,7 @@
     <modules>
         <module>hibernate-hbm-demo</module>
         <module>hibernate-annotation-demo</module>
+        <module>hibernate-jpa-demo</module>
         <module>spring-hibernate-demo</module>
     </modules>
 
